@@ -1,0 +1,56 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache/options
+.vs/
+*.vs/
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# CodeRush
+.cr/
+
+# WebStorm
+*.iml
+*.ipr
+*.iws
+*.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
