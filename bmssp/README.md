@@ -15,6 +15,17 @@ The BMSSP algorithm finds the shortest paths from multiple source vertices withi
 - Comprehensive unit test coverage
 - Professional code structure and documentation
 
+## Algorithm Purpose
+
+  The BMSSP algorithm is particularly useful in scenarios
+  where:
+
+- You need to find the closest reachable vertices from
+     multiple starting points
+- You want to limit search space to improve performance
+- You're working with large graphs but only need results
+     within a certain distance threshold
+
 ## Usage
 
 ```csharp
